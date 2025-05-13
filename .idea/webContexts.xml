@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebContextManager">
+    <option name="state">
+      <map>
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/atualizaCliente.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/atualizaEndereco.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/atualizaSenha.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/atualizarProduto.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/cadastraCartao.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/cadastraCliente.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/cadastraEndereco.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/chatbot.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/css/fazendo/movimentacoes.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view/css/fazendo" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/detalheProduto.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/endereco.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/finalizapedido.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/finalizarPedido.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/index.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/listaClientes.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+        <entry key="file://$PROJECT_DIR$/src/main/webapp/view/solicitacaoTroca.jsp" value="file://$PROJECT_DIR$/src/main/webapp/view" />
+      </map>
+    </option>
+  </component>
+</project>
